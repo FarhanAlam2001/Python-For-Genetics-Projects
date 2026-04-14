@@ -115,7 +115,7 @@ This project is open source and available under the MIT License. See the LICENSE
 ## 📧 Contact
 
 **Author:** Md Farhan Rusafi Alam 
-**GitHub:** [@JimmyAlam2000](https://github.com/JimmyAlam2000)
+**GitHub:** [@FarhanAlam2001](https://github.com/FarhanAlam2001)
 
 For questions or suggestions, please open an issue in the repository.
 

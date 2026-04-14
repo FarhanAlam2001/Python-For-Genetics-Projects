@@ -114,7 +114,7 @@ This project is open source and available under the MIT License. See the LICENSE
 
 ## 📧 Contact
 
-**Author:** JimmyAlam2000  
+**Author:** Md Farhan Rusafi Alam 
 **GitHub:** [@JimmyAlam2000](https://github.com/JimmyAlam2000)
 
 For questions or suggestions, please open an issue in the repository.

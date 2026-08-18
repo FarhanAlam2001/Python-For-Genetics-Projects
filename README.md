@@ -63,16 +63,6 @@ cd "DNA Sequence"
 python script_name.py
 ```
 
-## 📖 Project Structure
-
-Each project folder is typically organized as follows:
-```
-Project Name/
-├── script.py                 # Main implementation
-├── README.md                 # Project-specific documentation
-└── data/                     # Sample data files (if applicable)
-```
-
 ## 🔬 Key Concepts Covered
 
 ### Molecular Biology
